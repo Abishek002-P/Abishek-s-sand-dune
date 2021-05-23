@@ -1,0 +1,17 @@
+.hero {
+  min-height: 100vh;
+  background-image: url("hero.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero-tagline {
+  font-size: 3rem;
+}
+
+@media (min-width: 768px) {
+  .hero-tagline {
+    font-size: 5rem;
+  }
+}
