@@ -1,1 +1,1 @@
-# Chck out my Portfolio
+# Check out my Portfolio
